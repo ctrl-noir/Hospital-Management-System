@@ -1,5 +1,8 @@
 # Hospital-Management-System
 /*
 This is a C# console-based program of a hospital management system, that contains various capabilities.
-You may manipulate user inputed data, by discharging and admitting new patients.
-You may limit the amount of patients per ward in the hospital.
+You are able to Add patients into the hospital management system data set.
+You may display the patients data that you have inputed
+        discharge a patient from the hospital using the management system.
+        display each wards information, including the bed available.
+        search for a patient thorughtout the patient dataset you set.
